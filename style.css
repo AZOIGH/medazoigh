@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/hd-wallpapers\ android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-2ckuq-1600x900.png") no-repeat center;
+    background: url("https://i.redd.it/wmf4pf98d4l61.png") no-repeat center;
     height: 100vh;
     min-height: 500px;
     background-size: cover;
