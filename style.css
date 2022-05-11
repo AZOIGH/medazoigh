@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("/images/Backgg.gif") no-repeat center;
+    background: url("./images/Backgg.gif") no-repeat center;
     height: 100vh;
     min-height: 500px;
     background-size: cover;
@@ -261,7 +261,7 @@ section .title::after{
 
 /* services section styling */
 .services{
-    background: url('/images/wp2864012.gif') no-repeat center;
+    background: url('./images/wp2864012.gif') no-repeat center;
 }
 .services, .teams{
     color:black;
@@ -450,7 +450,7 @@ section .title::after{
 
 /* contact section styling */
 .contact{
-background: url('/images/Conntact.jpg') no-repeat ;
+background: url('./images/Conntact.jpg') no-repeat ;
 color: #fff;
 }
 .contact .title::after{
